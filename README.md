@@ -2,7 +2,9 @@
 
 It is a scratch mod in a totally new suit!
 
-The Guide to the New Suit:
+ You are not able to code here, but try amazing mashups and download mashup projects with different sprites, variables and exciting professional features in the project with cloud variables and codes. **Dont Miss it!**
+
+The Conplete Guide to the New Suit:
 ---
 
 The new suit contains a pre-made stage with the brand and project watermark.
@@ -17,7 +19,7 @@ The Top right hand tools pannel has 5 buttons :
 - **Download Project**: This button instantly downloads the project from the scratch mod in .sb3 extension with current data values of variables and lists, along with all sprites.
 - **Start**: This acts as the `Green Flag` on scratch.
 - **Stop**: This acts as the `Stop` on scratch.
-- **Full Screen** : Toggles the fullscreen mode of the project.
+- **Full Screen** : Toggles the fullscreen mode of the project. `Ctrl + F ` also executes the same function.
 
 ---
 
@@ -30,4 +32,6 @@ Tips to use :
 - **Extensions :** This project support all officials extensions from scratch.
 
 ---
+
+## Try it Out !!!
 
