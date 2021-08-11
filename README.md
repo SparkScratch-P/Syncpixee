@@ -25,5 +25,9 @@ Tips to use :
 
 - **Uploading sprites :** You can upload sprites through the `Add Sprite` button. The sprite needs to be coded somewhere else, and should be in `.sprite3` extension. You can try different sprite mushups in this project in stead of just coding a single project.
 - **Variables & Lists :** All lists and variables should be coded with show/hide controls to display or hide. By default, all lists/vars are hidden.
-- **Cloud variables :** You can connect to a primit
+- **Cloud variables :** Scratch doesn't let other websites use its cloud server, but you can host your own using programs like primitive-cloud-server. You can connect to a primitive cloud server meant for scratch. The Guide is [available here](https://github.com/SheepTester/primitive-cloud-server). Some Cloud variables are given [special behaviours depending on their name](https://github.com/SheepTester/htmlifier/wiki/Special-cloud-behaviours).
+- **Backdrop :** The default backdrop with the watermark cannot be changed. You can add a sprite with the `go back (1000) layers`block to set it as the backdrop.
+- **Extensions :** This project support all officials extensions from scratch.
+
+---
 
