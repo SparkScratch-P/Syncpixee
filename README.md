@@ -4,7 +4,7 @@ It is a scratch mod in a totally new suit!
 
  You are not able to code here, but try amazing mashups and download mashup projects with different sprites, variables and exciting professional features in the project with cloud variables and codes. **Dont Miss it!**
 
-The Conplete Guide to the New Suit:
+The Complete Guide to the New Suit:
 ---
 
 The new suit contains a pre-made stage with the brand and project watermark.
