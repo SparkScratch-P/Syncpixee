@@ -1,8 +1,9 @@
 ![logo](https://raw.githubusercontent.com/SparkScratch-P/Syncpixee/291ac7253f10d81de2dcaa4f0618df1f80faabd9/backdrop2.svg)
+By [SparkScratch-P](https://sparkscratch-p.github.io/)
 
 It is a scratch mod in a totally new suit!
 
-### [Visit the Mod here](https://sparkscratch-p.github.io/Syncpixee/mod)
+### [GoTo the Mod](https://sparkscratch-p.github.io/Syncpixee/mod)
 
  You are not able to code here, but try amazing mashups and download mashup projects with different sprites, variables and exciting professional features in the project with cloud variables and codes. **Dont Miss it!**
 
