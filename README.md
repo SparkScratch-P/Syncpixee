@@ -3,7 +3,7 @@ By [SparkScratch-P](https://sparkscratch-p.github.io/)
 
 It is a scratch mod in a totally new suit!
 
-### [GoTo the Mod](https://sparkscratch-p.github.io/Syncpixee/mod)
+### [Go To the Mod](https://sparkscratch-p.github.io/Syncpixee/mod)
 
  You are not able to code here, but try amazing mashups and download mashup projects with different sprites, variables and exciting professional features in the project with cloud variables and codes. **Dont Miss it!**
 
